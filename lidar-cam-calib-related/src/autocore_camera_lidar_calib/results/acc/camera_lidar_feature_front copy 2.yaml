@@ -1,0 +1,187 @@
+
+# pair1:
+#   camera:
+#     board_left_point:
+#       x: 658.805
+#       y: 247.8139
+#     board_top_point:
+#       x: 1131.247
+#       y: 216.6247
+#     board_right_point:
+#       y: 843.7942
+#       x: 1148.097
+#     board_down_point:
+#       x: 1148.097
+#       y: 843.7942
+#   lidar:
+#     board_down_point:
+#       x: 2.918581
+#       z: -0.4961192
+#       y: 0.2279123
+#     board_top_point:
+#       y: 0.2466328
+#       x: 2.932809
+#       z: 0.4638452
+#     board_left_point:
+#       y: 0.2466328
+#       z: 0.4638452
+#       x: 2.932809
+#     board_right_point:
+#       y: -0.4940001
+#       z: 0.4607127
+#       x: 2.809939
+pair1:
+  camera:
+    board_left_point:
+      x: 465.4503
+      y: 361.7011
+    board_right_point:
+      y: 935.4492
+      x: 1127.198
+    board_down_point:
+      x: 1127.198
+      y: 935.4492
+    board_top_point:
+      x: 1108.95
+      y: 305.9883
+  lidar:
+    board_down_point:
+      y: 0.5371721
+      x: 2.642555
+      z: -0.4932249
+    board_top_point:
+      y: -0.2965879
+      x: 2.167042
+      z: 0.2818474
+    board_right_point:
+      x: 2.149407
+      y: -0.2975503
+      z: -0.4730227
+    board_left_point:
+      x: 2.642555
+      y: 0.5371721
+      z: -0.4932249
+pair2:
+  camera:
+    board_left_point:
+      x: 332.7914
+      y: 337.786
+    board_right_point:
+      x: 1071.44
+      y: 886.4757
+    board_down_point:
+      x: 347.5919
+      y: 919.6612
+    board_top_point:
+      y: 329.6121
+      x: 1062.113
+  lidar:
+    board_top_point:
+      x: 2.430068
+      y: -0.2917728
+      z: 0.2838225
+    board_down_point:
+      z: -0.4947931
+      y: 0.6740292
+      x: 2.299694
+    board_right_point:
+      x: 2.433205
+      z: -0.4764485
+      y: -0.2938156
+    board_left_point:
+      x: 2.299694
+      z: -0.4947931
+      y: 0.6740292
+pair3:
+  camera:
+    board_left_point:
+      y: 785.0993
+      x: 483.5448
+    board_down_point:
+      y: 789.0643
+      x: 801.8404
+    board_right_point:
+      x: 809.5248
+      y: 381.5405
+    board_top_point:
+      x: 492.1573
+      y: 372.872
+  lidar:
+    board_down_point:
+      x: 4.250299
+      y: -0.07118411
+      z: -0.6204975
+    board_right_point:
+      y: -0.1067474
+      x: 4.271715
+      z: 0.3421877
+    board_left_point:
+      z: -0.6099873
+      y: 0.6666703
+      x: 4.185591
+    board_top_point:
+      z: 0.3607799
+      y: 0.6312256
+      x: 4.20715
+pair4:
+  camera:
+    board_left_point:
+      x: 95.49439
+      y: 809.3213
+    board_right_point:
+      x: 456.3027
+      y: 364.8099
+    board_top_point:
+      x: 104.367
+      y: 352.2503
+    board_down_point:
+      x: 95.49439
+      y: 809.3213
+  lidar:
+    board_down_point:
+      x: 3.932634
+      y: 0.7643565
+      z: -0.6132432
+    board_left_point:
+      x: 3.761579
+      z: -0.5928454
+      y: 1.477735
+    board_top_point:
+      y: 1.419109
+      x: 3.787803
+      z: 0.3831642
+    board_right_point:
+      y: 0.6961793
+      z: 0.3764587
+      x: 3.961323
+pair5:
+  camera:
+    board_left_point:
+      x: 239.7068
+      y: 965.5493
+    board_top_point:
+      y: 222.9341
+      x: 248.0939
+    board_down_point:
+      x: 239.7068
+      y: 965.5493
+    board_right_point:
+      x: 800.7515
+      y: 942.4291
+  lidar:
+    board_left_point:
+      z: -0.5519217
+      x: 2.287349
+      y: 0.8124287
+    board_top_point:
+      x: 2.547086
+      z: 0.4125688
+      y: 0.0560777
+    board_right_point:
+      y: 0.0560777
+      x: 2.547086
+      z: 0.4125688
+    board_down_point:
+      z: -0.5534603
+      y: 0.07482323
+      x: 2.465763

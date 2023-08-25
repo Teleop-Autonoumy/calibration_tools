@@ -1,0 +1,249 @@
+
+pair1:
+  camera:
+    board_right_point:
+      x: 642.1928
+      y: 461.3806
+    board_down_point:
+      x: 435.6572
+      y: 657.983
+    board_left_point:
+      y: 443.7541
+      x: 233.3335
+    board_top_point:
+      y: 254.0073
+      x: 447.6553
+  lidar:
+    board_down_point:
+      y: 0.5625509
+      x: 2.652514
+      z: -0.1913487
+    board_top_point:
+      x: 2.708184
+      z: 0.3878112
+      y: 0.5343146
+    board_left_point:
+      x: 2.614886
+      y: 0.8526485
+      z: 0.1591355
+    board_right_point:
+      x: 2.742657
+      y: 0.2902716
+      z: 0.1262017
+pair2:
+  camera:
+    board_right_point:
+      x: 879.2037
+      y: 497.616
+    board_left_point:
+      x: 508.9684
+      y: 480.9018
+    board_top_point:
+      x: 705.2891
+      y: 302.0486
+    board_down_point:
+      x: 687.4631
+      y: 675.7551
+  lidar:
+    board_top_point:
+      y: 0.2213427
+      z: 0.3793178
+      x: 2.919448
+    board_left_point:
+      z: 0.1323027
+      y: 0.5136239
+      x: 2.850841
+    board_right_point:
+      y: -0.08099055
+      x: 2.977527
+      z: 0.1093229
+    board_down_point:
+      y: 0.2220181
+      z: -0.1691777
+      x: 2.905852
+pair3:
+  camera:
+    board_left_point:
+      y: 424.3216
+      x: 360.5658
+    board_right_point:
+      x: 780.8885
+      y: 474.6458
+    board_down_point:
+      y: 659.3801
+      x: 547.7621
+    board_top_point:
+      x: 598.3702
+      y: 237.9638
+  lidar:
+    board_right_point:
+      z: 0.1008335
+      y: 0.0823763
+      x: 2.57871
+    board_down_point:
+      z: -0.1543733
+      x: 2.585548
+      y: 0.4111522
+    board_top_point:
+      z: 0.4057572
+      x: 2.532835
+      y: 0.3344842
+    board_left_point:
+      x: 2.536165
+      z: 0.1814209
+      y: 0.6693701
+pair4:
+  camera:
+    board_right_point:
+      x: 676.3436
+      y: 399.4033
+    board_left_point:
+      x: 262.3535
+      y: 326.4354
+    board_down_point:
+      x: 435.7107
+      y: 568.8335
+    board_top_point:
+      y: 153.673
+      x: 506.299
+  lidar:
+    board_top_point:
+      y: 0.5093085
+      x: 2.573982
+      z: 0.4959115
+    board_down_point:
+      z: -0.0125283
+      y: 0.567938
+      x: 2.619587
+    board_left_point:
+      x: 2.582815
+      y: 0.8116705
+      z: 0.3141329
+    board_right_point:
+      x: 2.607581
+      z: 0.2193998
+      y: 0.2099083
+pair5:
+  lidar:
+    board_top_point:
+      y: -0.009559691
+      z: 0.4663666
+      x: 2.594411
+    board_right_point:
+      y: -0.2853398
+      z: 0.168595
+      x: 2.576194
+    board_left_point:
+      x: 2.654902
+      z: 0.2168476
+      y: 0.3056674
+    board_down_point:
+      y: 0.0184139
+      z: -0.08126116
+      x: 2.635117
+  camera:
+    board_right_point:
+      x: 1035.201
+      y: 421.951
+    board_left_point:
+      x: 615.5643
+      y: 395.5386
+    board_down_point:
+      x: 808.8669
+      y: 615.9391
+    board_top_point:
+      y: 198.4312
+      x: 837.8755
+pair6:
+  camera:
+    board_left_point:
+      x: 302.5098
+      y: 504.4487
+    board_top_point:
+      y: 267.5284
+      x: 538.8249
+    board_right_point:
+      x: 771.2412
+      y: 503.7057
+    board_down_point:
+      x: 539.0674
+      y: 734.3582
+  lidar:
+    board_right_point:
+      y: 0.111109
+      z: 0.06366745
+      x: 2.356023
+    board_left_point:
+      x: 2.316196
+      z: 0.0874024
+      y: 0.6969686
+    board_down_point:
+      y: 0.4229378
+      x: 2.369161
+      z: -0.2501217
+    board_top_point:
+      y: 0.4066622
+      x: 2.308287
+      z: 0.3384401
+pair7:
+  camera:
+    board_right_point:
+      x: 618.5792
+      y: 627.2065
+    board_left_point:
+      x: 248.6934
+      y: 480.1364
+    board_top_point:
+      x: 509.9191
+      y: 359.8884
+    board_down_point:
+      x: 374.8217
+      y: 764.7466
+  lidar:
+    board_right_point:
+      x: 2.686634
+      y: 0.3231755
+      z: -0.1187272
+    board_top_point:
+      z: 0.2646882
+      x: 2.600829
+      y: 0.4667615
+    board_left_point:
+      x: 2.400713
+      y: 0.7823598
+      z: 0.07181513
+    board_down_point:
+      y: 0.6523246
+      x: 2.478235
+      z: -0.2920552
+pair8:
+  camera:
+    board_right_point:
+      y: 588.345
+      x: 985.8167
+    board_left_point:
+      x: 596.219
+      y: 491.7618
+    board_top_point:
+      x: 822.073
+      y: 326.5219
+    board_down_point:
+      x: 741.7916
+      y: 742.3585
+  lidar:
+    board_down_point:
+      y: 0.1453736
+      z: -0.2716627
+      x: 2.604768
+    board_left_point:
+      x: 2.683008
+      y: 0.3317259
+      z: 0.07441968
+    board_top_point:
+      z: 0.287239
+      x: 2.524606
+      y: 0.02007532
+    board_right_point:
+      z: -0.04087394
+      x: 2.443357
+      y: -0.1711954
