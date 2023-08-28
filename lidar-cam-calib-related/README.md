@@ -58,7 +58,24 @@ Repeat the process above a few times. U will get a few pairs of png and pcd.
 
 ### 3. Manually edit the pcd file
 
-To get a good structure for chessboard, editing the pcd file is a must. Open the cloud compare and edit the pcd file there (TODO:Need more instructions on cloud compare)
+To get a good structure for chessboard, editing the pcd file is a must. 
+
+- Open the cloud compare and drag and drop your pcd file there.
+- Select the point cloud just imported and click the button shown below.
+
+   <img src="./src/autocore_camera_lidar_calib/pic/howtoedit1.png" alt="fixture" style="zoom: 100%;" />
+- Once clicked, the following tab will be shown. Use left click to draw the boundary and left click to finalize the boundary. Use the button in green circle to select the point inside the boundary and yellow circle to select the point outside the boundary.
+
+   <img src="./src/autocore_camera_lidar_calib/pic/howtoedit3.png" alt="fixture" style="zoom: 100%;" />
+   <img src="./src/autocore_camera_lidar_calib/pic/howtoedit2.png" alt="fixture" style="zoom: 100%;" />
+
+- Once done, select the green tick shown below.
+
+   <img src="./src/autocore_camera_lidar_calib/pic/howtoedit4.png" alt="fixture" style="zoom: 100%;" />
+
+- Now there will be two separate point cloud showing on the left. Select the one that u desired and save that!
+
+   <img src="./src/autocore_camera_lidar_calib/pic/howtoedit5.png" alt="fixture" style="zoom: 100%;" />
 
 ### 4. Feature Extraction
 
@@ -68,7 +85,7 @@ To get a good structure for chessboard, editing the pcd file is a must. Open the
 YOUR_INDEX here refers to the index number of the pair 
 YOUR_NAME here refers to the name of the pair
 
-If it work well, the image below will be shown.
+If it works well, the image below will be shown.
 
 <img src="./src/autocore_camera_lidar_calib/pic/chess.png" alt="fixture" style="zoom: 40%;" />
 
